@@ -131,7 +131,7 @@ git commit -m "[Descriptive message]"
 git push origin main
 
 # VERIFY on GitHub
-curl -s "https://api.github.com/repos/chiranjitk/cryptsk_staysuiteV2026/commits/main" | grep '"sha"'
+curl -s "https://api.github.com/repos/chiranjitk/$repo_name/commits/main" | grep '"sha"'
 ```
 
 ---
