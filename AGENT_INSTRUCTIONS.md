@@ -30,10 +30,11 @@ git config user.email "chiranjitk@outlook.com"
 
 | Property | Value |
 |----------|-------|
-| Repository | https://github.com/chiranjitk/ |
+| Repository | https://github.com/chiranjitk/ |  create_new_repo
 | Branch | main (NOT master) |
 | Author | chiranjitk <chiranjitk@outlook.com> |
 | Token | share_in_chat |
+
 
 ---
 
